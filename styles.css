@@ -1,0 +1,17 @@
+.fas {
+    color : black;
+  }
+  .parent{
+    width: 600px;
+  }
+    .parent2 {
+      
+      height: auto;
+      width: auto;
+      
+      
+    }
+
+    .col-sm-4{
+      padding-bottom: 25px;
+    }
